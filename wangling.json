@@ -65,6 +65,11 @@
           "name": "VOLTEX DELUXE",
           "lib_name": "lib12.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib12.so"
+          },
+        {
+          "name": "KIOHAX MOD",
+          "lib_name": "lib13.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib13.so"
         }
       ]
     }
