@@ -70,6 +70,11 @@
           "name": "KIOHAX MOD",
           "lib_name": "lib13.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib13.so"
+          },
+        {
+          "name": "KEN MOD",
+          "lib_name": "lib14.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib14.so"
         }
       ]
     }
