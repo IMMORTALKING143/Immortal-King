@@ -74,12 +74,7 @@
         {
           "name": "KEN MOD",
           "lib_name": "lib14.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib14.so"
-          },
-        {
-          "name": "EPICSXZ PREMIUM",
-          "lib_name": "lib15.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib15.so"
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib14.so"          
         }
       ]
     }
