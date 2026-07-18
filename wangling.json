@@ -80,6 +80,11 @@
           "name": "KYZ HAX MOD",
           "lib_name": "lib15.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib15.so"
+          },
+        {
+          "name": "ZENITRIX MOD",
+          "lib_name": "lib16.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib16.so"
         }
       ]
     }
