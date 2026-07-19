@@ -5,7 +5,6 @@
       "status": "ONLINE",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
       "logo": "https://raw.githubusercontent.com/IMMORTALKING143/Immortal-King/refs/heads/main/Call%20Of%20Duty%20Mobile%20Wallpaper.jpg",
-      "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/libAhook.so"
       "libs": [
         {
           "name": "IMMORTAL KING MOD WITH SKIN",
@@ -56,6 +55,11 @@
           "name": "GHOST DELUXE V11",
           "lib_name": "lib10.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib10.so"
+          },
+        {
+          "name": "PSYCHE V2 FILES",
+          "lib_name": "libAhook.so", 
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/libAhook.so"
           },
         {
           "name": "PSYCHE V2",
