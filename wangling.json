@@ -85,6 +85,11 @@
           "name": "ZENITRIX MOD",
           "lib_name": "lib16.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib16.so"
+          },
+        { 
+          "name": "SHISUI FREE MOD",
+          "lib_name": "lib17.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib17.so"
         }
       ]
     }
