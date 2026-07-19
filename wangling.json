@@ -57,9 +57,11 @@
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib10.so"
           },
         {
-          "name": "PSYCHE V7",
-          "lib_name": "lib11.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib11.so"
+          "name": "PSYCHE V2",
+          "lib_name": "libAhook.so",
+          "lib_name": "lib11.so",      
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/libAhook.so"    
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib11.so"          
           },
         {
           "name": "VOLTEX DELUXE",
