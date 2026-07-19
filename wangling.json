@@ -65,8 +65,6 @@
           "name": "PSYCHE V2",
           "lib_name": "lib11.so", 
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib11.so"          
-          "lib_name": "libAhook.so", 
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/libAhook.so"
           },
         {
           "name": "VOLTEX DELUXE",
