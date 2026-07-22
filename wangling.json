@@ -100,6 +100,11 @@
           "name": "LUMINANCE V2",
           "lib_name": "lib18.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib18.so"
+          },
+        { 
+          "name": "VOID FREE VIP",
+          "lib_name": "lib19.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib19.so"
         }
       ]
     }
