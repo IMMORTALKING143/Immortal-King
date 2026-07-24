@@ -58,12 +58,12 @@
           },
         { 
           "name": "KUPAL KESHANA V1",
-          "lib_name": "lib20.so",
+          "lib_name": "lib11.so",
           "download_url": "https://mxfxcomms.elementfx.com/Farlight/lib20.so"          
           },
         {
           "name": "VOLTEX DELUXE",
-          "lib_name": "lib20.so",
+          "lib_name": "lib12.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib12.so"
           },
         {
@@ -100,9 +100,14 @@
           "name": "VOID FREE VIP",
           "lib_name": "lib19.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib19.so"
+          },
+        { 
+          "name": "ASHTEVS V2",
+          "lib_name": "lib20.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib20.so"
         }
       ]
     }
   ],
   "music": ""
-}
+    }
