@@ -39,10 +39,15 @@
         {
           "name": "KUPAL X SHANA MOD",
           "lib_name": "lib7.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib7.so"
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib7.so"          
           },
         {
-          "name": "KIRITO VIP DELUXE V5",
+          "name": "SWAG MOD FILES",
+          "lib_name": "libAhook.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/libAhook.so"
+          },
+        {
+          "name": "SWAG MOD",
           "lib_name": "lib8.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib8.so"
           },
