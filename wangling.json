@@ -107,12 +107,17 @@
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib19.so"
           },
         { 
-          "name": "ASHTEVS V2",
-          "lib_name": "lib20.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib20.so"
+          "name": "ZENXVELD MOD",
+          "lib_name": "lib21.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib21.so"
+          },
+        { 
+          "name": "OWL HAX",
+          "lib_name": "lib22.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib22.so"
         }
       ]
     }
   ],
   "music": ""
-}
+        }
