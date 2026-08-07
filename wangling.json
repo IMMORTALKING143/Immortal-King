@@ -120,6 +120,11 @@
           "name": "OWL HAX ",
           "lib_name": "lib22.so",
           "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib22.so"
+          },
+        { 
+          "name": "VOLTEX DELUXE WITH PREMIUM FEATURES",
+          "lib_name": "lib23.so",
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib23.so"
         }
       ]
     }
